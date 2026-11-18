@@ -1,0 +1,1001 @@
+﻿id_visualizacion;fecha_visualizacion;id_usuario;nombre_usuario;email;fecha_alta_usuario;nombre_contenido;tipo_contenido;genero;casa_productora;duracion_total_min;rating;plan_suscripcion;importe_mensual;dispositivo;minutos_visualizados;completado_flag
+VIZ-0001;23/11/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Tablet;102;1
+VIZ-0002;22/2/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Web;41;1
+VIZ-0003;29/4/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Mobile;20;0
+VIZ-0004;2/8/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Tablet;5;0
+VIZ-0005;22/3/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Mobile;41;1
+VIZ-0006;22/2/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Tablet;48;0
+VIZ-0007;23/1/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Web;84;1
+VIZ-0008;17/11/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Mobile;14;0
+VIZ-0009;26/4/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Smart TV;43;1
+VIZ-0010;5/7/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Mobile;22;0
+VIZ-0011;15/12/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Mobile;35;1
+VIZ-0012;24/8/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Mobile;81;0
+VIZ-0013;29/1/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Tablet;40;1
+VIZ-0014;17/10/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Web;40;1
+VIZ-0015;22/8/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Mobile;56;0
+VIZ-0016;26/10/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Web;108;1
+VIZ-0017;11/3/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Smart TV;10;0
+VIZ-0018;22/3/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Web;38;1
+VIZ-0019;27/9/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Smart TV;38;0
+VIZ-0020;16/5/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Web;41;1
+VIZ-0021;14/5/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Smart TV;26;0
+VIZ-0022;23/11/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Mobile;35;1
+VIZ-0023;28/9/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Web;38;1
+VIZ-0024;6/6/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Smart TV;106;1
+VIZ-0025;5/2/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Mobile;63;0
+VIZ-0026;25/3/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Web;58;0
+VIZ-0027;19/12/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Web;23;0
+VIZ-0028;12/8/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Mobile;47;1
+VIZ-0029;28/10/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Mobile;39;1
+VIZ-0030;31/1/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Tablet;42;1
+VIZ-0031;8/12/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Mobile;25;0
+VIZ-0032;22/10/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Web;36;1
+VIZ-0033;8/8/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Web;14;0
+VIZ-0034;30/11/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Tablet;18;0
+VIZ-0035;8/4/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Mobile;84;1
+VIZ-0036;7/5/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Smart TV;50;1
+VIZ-0037;8/1/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Mobile;102;1
+VIZ-0038;24/7/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Smart TV;25;0
+VIZ-0039;20/8/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Web;98;1
+VIZ-0040;30/1/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Smart TV;6;0
+VIZ-0041;26/10/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Mobile;86;1
+VIZ-0042;5/4/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Mobile;38;1
+VIZ-0043;18/10/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Smart TV;36;1
+VIZ-0044;25/10/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Tablet;87;1
+VIZ-0045;2/5/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Tablet;104;1
+VIZ-0046;7/2/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Smart TV;46;1
+VIZ-0047;15/5/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Smart TV;34;0
+VIZ-0048;21/3/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Tablet;44;1
+VIZ-0049;30/11/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Tablet;18;0
+VIZ-0050;9/3/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Mobile;43;1
+VIZ-0051;24/6/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Tablet;109;1
+VIZ-0052;27/1/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Tablet;110;1
+VIZ-0053;7/3/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Web;92;1
+VIZ-0054;5/1/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Mobile;44;1
+VIZ-0055;25/10/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Mobile;92;1
+VIZ-0056;21/1/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Mobile;12;0
+VIZ-0057;13/10/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Mobile;9;0
+VIZ-0058;24/3/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Smart TV;107;1
+VIZ-0059;29/7/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Smart TV;122;1
+VIZ-0060;28/8/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Tablet;39;1
+VIZ-0061;26/4/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Mobile;104;1
+VIZ-0062;5/2/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Web;25;0
+VIZ-0063;18/6/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Mobile;45;1
+VIZ-0064;20/1/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Tablet;11;0
+VIZ-0065;6/11/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Mobile;44;1
+VIZ-0066;1/1/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Mobile;98;1
+VIZ-0067;6/12/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Smart TV;11;0
+VIZ-0068;7/6/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Tablet;39;1
+VIZ-0069;6/12/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Mobile;110;1
+VIZ-0070;7/10/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Mobile;129;1
+VIZ-0071;1/12/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Web;20;0
+VIZ-0072;27/3/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Tablet;134;1
+VIZ-0073;30/4/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Mobile;37;1
+VIZ-0074;31/8/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Web;42;1
+VIZ-0075;9/4/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Mobile;48;1
+VIZ-0076;24/2/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Web;37;1
+VIZ-0077;3/3/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Tablet;61;0
+VIZ-0078;9/11/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Web;57;0
+VIZ-0079;31/8/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Tablet;55;0
+VIZ-0080;16/11/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Smart TV;32;0
+VIZ-0081;20/6/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Smart TV;100;1
+VIZ-0082;21/12/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Smart TV;45;1
+VIZ-0083;26/8/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Web;109;1
+VIZ-0084;22/12/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Web;44;1
+VIZ-0085;1/6/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Mobile;41;1
+VIZ-0086;5/9/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Web;63;0
+VIZ-0087;6/3/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Web;87;1
+VIZ-0088;12/2/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Mobile;92;1
+VIZ-0089;18/4/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Web;42;1
+VIZ-0090;3/8/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Web;42;1
+VIZ-0091;28/6/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Smart TV;78;0
+VIZ-0092;12/4/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Mobile;37;1
+VIZ-0093;15/10/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Tablet;10;0
+VIZ-0094;6/11/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Tablet;86;1
+VIZ-0095;8/6/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Web;26;0
+VIZ-0096;30/10/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Tablet;20;0
+VIZ-0097;2/3/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Tablet;92;1
+VIZ-0098;5/2/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Smart TV;69;0
+VIZ-0099;24/2/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Web;15;0
+VIZ-0100;24/9/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Web;37;1
+VIZ-0101;30/10/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Smart TV;40;1
+VIZ-0102;25/8/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Web;36;1
+VIZ-0103;15/6/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Tablet;15;0
+VIZ-0104;1/11/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Mobile;87;1
+VIZ-0105;7/9/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Web;90;1
+VIZ-0106;9/1/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Web;38;0
+VIZ-0107;24/10/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Tablet;49;1
+VIZ-0108;18/6/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Tablet;44;1
+VIZ-0109;8/4/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Mobile;44;1
+VIZ-0110;21/5/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Tablet;56;0
+VIZ-0111;31/5/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Tablet;40;1
+VIZ-0112;20/5/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Tablet;20;0
+VIZ-0113;8/9/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Tablet;42;1
+VIZ-0114;4/4/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Smart TV;45;0
+VIZ-0115;7/2/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Smart TV;116;1
+VIZ-0116;4/6/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Web;39;1
+VIZ-0117;25/4/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Web;101;1
+VIZ-0118;7/8/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Smart TV;37;1
+VIZ-0119;16/4/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Smart TV;124;1
+VIZ-0120;8/2/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Web;42;0
+VIZ-0121;17/1/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Tablet;50;0
+VIZ-0122;17/12/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Mobile;103;1
+VIZ-0123;27/11/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Mobile;99;1
+VIZ-0124;6/6/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Tablet;45;1
+VIZ-0125;4/6/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Web;130;1
+VIZ-0126;9/8/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Smart TV;38;1
+VIZ-0127;21/10/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Tablet;109;1
+VIZ-0128;30/3/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Web;19;0
+VIZ-0129;26/10/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Smart TV;111;1
+VIZ-0130;13/6/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Tablet;42;1
+VIZ-0131;5/12/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Smart TV;41;1
+VIZ-0132;14/6/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Smart TV;40;0
+VIZ-0133;30/7/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Tablet;38;1
+VIZ-0134;14/8/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Mobile;14;0
+VIZ-0135;23/12/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Mobile;13;0
+VIZ-0136;8/1/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Mobile;67;0
+VIZ-0137;24/8/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Web;32;0
+VIZ-0138;27/12/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Web;100;1
+VIZ-0139;15/7/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Mobile;28;0
+VIZ-0140;31/7/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Tablet;29;0
+VIZ-0141;1/6/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Web;14;0
+VIZ-0142;4/9/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Web;39;1
+VIZ-0143;6/4/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Mobile;13;0
+VIZ-0144;11/6/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Web;27;0
+VIZ-0145;29/11/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Mobile;48;1
+VIZ-0146;21/2/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Web;41;1
+VIZ-0147;1/12/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Tablet;44;1
+VIZ-0148;28/11/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Web;21;0
+VIZ-0149;6/9/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Smart TV;108;1
+VIZ-0150;27/5/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Web;26;0
+VIZ-0151;26/12/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Tablet;6;0
+VIZ-0152;29/1/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Web;40;1
+VIZ-0153;16/10/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Smart TV;92;1
+VIZ-0154;15/12/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Mobile;48;1
+VIZ-0155;23/8/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Web;59;0
+VIZ-0156;21/3/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Tablet;47;1
+VIZ-0157;8/5/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Mobile;27;0
+VIZ-0158;24/2/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Tablet;105;1
+VIZ-0159;31/5/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Web;42;1
+VIZ-0160;17/12/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Web;68;0
+VIZ-0161;27/4/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Mobile;91;1
+VIZ-0162;13/12/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Smart TV;111;1
+VIZ-0163;23/10/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Smart TV;14;0
+VIZ-0164;31/7/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Tablet;40;1
+VIZ-0165;25/3/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Tablet;32;0
+VIZ-0166;28/2/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Mobile;24;0
+VIZ-0167;22/7/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Web;40;1
+VIZ-0168;20/8/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Tablet;116;1
+VIZ-0169;9/7/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Web;117;1
+VIZ-0170;14/10/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Mobile;104;1
+VIZ-0171;25/8/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Smart TV;117;1
+VIZ-0172;4/6/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Mobile;8;0
+VIZ-0173;20/8/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Web;115;1
+VIZ-0174;31/7/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Web;12;0
+VIZ-0175;19/12/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Web;24;0
+VIZ-0176;20/2/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Tablet;83;1
+VIZ-0177;3/3/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Mobile;43;1
+VIZ-0178;11/1/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Mobile;54;0
+VIZ-0179;15/4/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Mobile;43;1
+VIZ-0180;29/4/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Smart TV;95;1
+VIZ-0181;7/3/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Smart TV;16;0
+VIZ-0182;8/1/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Tablet;88;1
+VIZ-0183;5/3/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Smart TV;88;1
+VIZ-0184;19/9/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Mobile;6;0
+VIZ-0185;3/12/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Smart TV;128;1
+VIZ-0186;24/7/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Web;43;0
+VIZ-0187;11/2/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Smart TV;37;1
+VIZ-0188;26/10/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Web;20;0
+VIZ-0189;20/8/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Smart TV;6;0
+VIZ-0190;1/12/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Web;44;1
+VIZ-0191;22/6/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Smart TV;98;1
+VIZ-0192;10/5/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Web;96;1
+VIZ-0193;17/2/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Tablet;19;0
+VIZ-0194;27/10/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Smart TV;89;1
+VIZ-0195;4/8/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Tablet;129;1
+VIZ-0196;18/4/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Mobile;36;0
+VIZ-0197;11/10/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Mobile;27;0
+VIZ-0198;14/11/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Smart TV;114;1
+VIZ-0199;21/12/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Tablet;32;0
+VIZ-0200;22/6/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Mobile;105;1
+VIZ-0201;13/3/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Mobile;43;1
+VIZ-0202;21/3/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Tablet;59;0
+VIZ-0203;13/2/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Smart TV;26;0
+VIZ-0204;4/12/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Web;46;1
+VIZ-0205;19/9/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Smart TV;41;1
+VIZ-0206;6/9/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Smart TV;118;1
+VIZ-0207;29/1/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Mobile;22;0
+VIZ-0208;28/5/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Web;9;0
+VIZ-0209;13/7/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Tablet;47;1
+VIZ-0210;22/1/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Smart TV;49;0
+VIZ-0211;20/10/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Web;45;1
+VIZ-0212;15/6/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Web;61;0
+VIZ-0213;15/2/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Mobile;41;1
+VIZ-0214;10/2/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Tablet;43;1
+VIZ-0215;9/2/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Mobile;36;0
+VIZ-0216;26/11/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Mobile;37;1
+VIZ-0217;19/3/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Web;94;1
+VIZ-0218;23/10/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Tablet;55;0
+VIZ-0219;18/3/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Web;44;1
+VIZ-0220;29/10/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Smart TV;40;1
+VIZ-0221;30/1/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Smart TV;44;1
+VIZ-0222;16/2/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Web;36;1
+VIZ-0223;22/1/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Mobile;102;1
+VIZ-0224;18/3/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Tablet;7;0
+VIZ-0225;26/11/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Web;46;0
+VIZ-0226;8/11/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Tablet;41;1
+VIZ-0227;13/12/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Tablet;102;1
+VIZ-0228;13/12/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Mobile;129;1
+VIZ-0229;13/3/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Web;131;1
+VIZ-0230;13/2/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Tablet;45;0
+VIZ-0231;16/12/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Web;41;1
+VIZ-0232;7/6/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Web;40;1
+VIZ-0233;20/3/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Smart TV;83;0
+VIZ-0234;12/11/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Mobile;37;1
+VIZ-0235;15/11/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Smart TV;46;1
+VIZ-0236;1/5/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Web;35;1
+VIZ-0237;28/8/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Web;39;1
+VIZ-0238;14/7/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Mobile;52;0
+VIZ-0239;11/3/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Web;48;0
+VIZ-0240;22/2/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Tablet;40;1
+VIZ-0241;18/8/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Smart TV;23;0
+VIZ-0242;18/8/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Web;103;1
+VIZ-0243;30/4/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Mobile;45;1
+VIZ-0244;31/12/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Mobile;94;1
+VIZ-0245;29/8/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Web;86;1
+VIZ-0246;10/2/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Mobile;131;1
+VIZ-0247;27/9/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Mobile;41;1
+VIZ-0248;2/8/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Smart TV;20;0
+VIZ-0249;1/10/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Mobile;32;0
+VIZ-0250;1/1/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Web;41;1
+VIZ-0251;25/9/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Smart TV;43;1
+VIZ-0252;21/11/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Smart TV;38;1
+VIZ-0253;3/5/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Tablet;89;1
+VIZ-0254;22/6/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Web;17;0
+VIZ-0255;3/4/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Web;41;1
+VIZ-0256;12/4/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Web;18;0
+VIZ-0257;9/5/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Mobile;94;1
+VIZ-0258;25/1/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Tablet;127;1
+VIZ-0259;13/8/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Web;13;0
+VIZ-0260;22/9/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Web;91;1
+VIZ-0261;2/4/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Smart TV;130;1
+VIZ-0262;5/6/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Web;36;1
+VIZ-0263;16/8/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Web;48;1
+VIZ-0264;30/1/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Web;116;1
+VIZ-0265;13/12/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Web;102;1
+VIZ-0266;26/11/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Smart TV;41;1
+VIZ-0267;8/7/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Mobile;47;1
+VIZ-0268;28/11/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Smart TV;16;0
+VIZ-0269;17/7/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Tablet;10;0
+VIZ-0270;9/11/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Mobile;47;1
+VIZ-0271;19/8/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Web;62;0
+VIZ-0272;12/6/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Tablet;29;0
+VIZ-0273;30/12/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Mobile;87;1
+VIZ-0274;12/3/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Smart TV;91;1
+VIZ-0275;27/8/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Smart TV;92;1
+VIZ-0276;2/9/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Smart TV;98;1
+VIZ-0277;7/2/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Tablet;49;1
+VIZ-0278;9/10/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Web;97;1
+VIZ-0279;4/3/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Mobile;97;1
+VIZ-0280;25/4/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Smart TV;87;1
+VIZ-0281;9/10/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Tablet;89;1
+VIZ-0282;24/11/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Mobile;37;1
+VIZ-0283;5/11/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Smart TV;5;0
+VIZ-0284;24/1/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Mobile;47;0
+VIZ-0285;23/11/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Tablet;47;1
+VIZ-0286;5/5/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Smart TV;26;0
+VIZ-0287;31/7/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Tablet;47;1
+VIZ-0288;12/6/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Tablet;96;1
+VIZ-0289;3/5/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Web;41;1
+VIZ-0290;28/5/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Web;43;1
+VIZ-0291;22/3/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Tablet;99;1
+VIZ-0292;20/9/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Web;50;1
+VIZ-0293;15/9/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Tablet;37;1
+VIZ-0294;1/11/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Smart TV;48;0
+VIZ-0295;15/5/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Tablet;86;1
+VIZ-0296;14/10/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Tablet;40;1
+VIZ-0297;8/10/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Smart TV;40;1
+VIZ-0298;10/7/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Mobile;86;1
+VIZ-0299;13/9/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Mobile;64;0
+VIZ-0300;22/9/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Mobile;94;1
+VIZ-0301;24/3/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Tablet;36;1
+VIZ-0302;17/9/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Tablet;45;1
+VIZ-0303;18/6/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Tablet;55;0
+VIZ-0304;18/12/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Tablet;21;0
+VIZ-0305;23/10/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Smart TV;37;1
+VIZ-0306;18/11/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Mobile;23;0
+VIZ-0307;20/10/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Web;37;1
+VIZ-0308;19/12/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Web;56;0
+VIZ-0309;1/2/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Tablet;34;0
+VIZ-0310;11/7/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Tablet;95;1
+VIZ-0311;14/12/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Mobile;10;0
+VIZ-0312;1/6/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Mobile;52;0
+VIZ-0313;2/9/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Tablet;86;1
+VIZ-0314;5/10/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Tablet;62;0
+VIZ-0315;28/5/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Smart TV;127;1
+VIZ-0316;11/5/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Tablet;20;0
+VIZ-0317;11/3/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Mobile;37;1
+VIZ-0318;28/9/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Smart TV;110;1
+VIZ-0319;29/8/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Smart TV;80;0
+VIZ-0320;21/3/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Web;64;0
+VIZ-0321;27/5/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Smart TV;21;0
+VIZ-0322;20/10/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Smart TV;18;0
+VIZ-0323;31/3/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Web;43;1
+VIZ-0324;28/5/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Smart TV;33;0
+VIZ-0325;20/8/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Mobile;34;0
+VIZ-0326;8/4/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Web;41;1
+VIZ-0327;8/1/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Mobile;94;1
+VIZ-0328;26/7/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Smart TV;82;1
+VIZ-0329;12/3/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Smart TV;39;1
+VIZ-0330;16/5/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Smart TV;126;1
+VIZ-0331;30/4/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Web;111;1
+VIZ-0332;14/9/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Tablet;44;1
+VIZ-0333;9/3/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Tablet;94;1
+VIZ-0334;29/8/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Mobile;48;0
+VIZ-0335;1/11/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Tablet;86;1
+VIZ-0336;1/2/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Mobile;99;1
+VIZ-0337;16/6/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Mobile;19;0
+VIZ-0338;18/9/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Web;89;1
+VIZ-0339;15/10/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Tablet;30;0
+VIZ-0340;2/1/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Smart TV;37;1
+VIZ-0341;4/10/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Web;102;1
+VIZ-0342;10/3/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Web;27;0
+VIZ-0343;11/7/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Mobile;36;0
+VIZ-0344;1/4/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Mobile;24;0
+VIZ-0345;2/1/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Web;133;1
+VIZ-0346;6/5/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Tablet;41;1
+VIZ-0347;27/2/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Web;94;1
+VIZ-0348;9/1/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Smart TV;38;1
+VIZ-0349;10/12/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Smart TV;37;1
+VIZ-0350;21/4/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Tablet;97;1
+VIZ-0351;21/10/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Tablet;38;1
+VIZ-0352;4/12/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Tablet;38;1
+VIZ-0353;29/10/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Web;107;1
+VIZ-0354;25/6/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Tablet;32;0
+VIZ-0355;2/6/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Web;90;1
+VIZ-0356;28/12/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Smart TV;95;1
+VIZ-0357;12/10/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Mobile;91;1
+VIZ-0358;10/2/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Smart TV;43;1
+VIZ-0359;27/1/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Smart TV;22;0
+VIZ-0360;27/10/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Mobile;12;0
+VIZ-0361;8/1/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Smart TV;59;0
+VIZ-0362;4/5/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Web;20;0
+VIZ-0363;24/5/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Tablet;47;1
+VIZ-0364;11/9/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Web;13;0
+VIZ-0365;14/4/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Smart TV;39;1
+VIZ-0366;15/3/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Web;124;1
+VIZ-0367;27/4/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Web;38;1
+VIZ-0368;21/6/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Web;92;1
+VIZ-0369;29/6/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Web;97;1
+VIZ-0370;24/11/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Smart TV;44;0
+VIZ-0371;4/1/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Mobile;90;1
+VIZ-0372;21/4/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Smart TV;48;1
+VIZ-0373;11/11/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Smart TV;113;1
+VIZ-0374;7/1/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Tablet;84;1
+VIZ-0375;14/9/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Smart TV;39;0
+VIZ-0376;3/5/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Tablet;10;0
+VIZ-0377;22/7/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Web;42;1
+VIZ-0378;25/4/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Smart TV;111;1
+VIZ-0379;9/10/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Smart TV;17;0
+VIZ-0380;10/8/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Smart TV;38;1
+VIZ-0381;20/12/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Smart TV;25;0
+VIZ-0382;23/5/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Smart TV;37;1
+VIZ-0383;9/1/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Web;11;0
+VIZ-0384;15/10/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Tablet;37;1
+VIZ-0385;18/12/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Tablet;85;1
+VIZ-0386;8/2/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Web;11;0
+VIZ-0387;20/11/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Web;91;1
+VIZ-0388;11/7/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Web;94;1
+VIZ-0389;6/5/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Mobile;44;1
+VIZ-0390;19/3/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Smart TV;42;1
+VIZ-0391;15/8/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Smart TV;87;1
+VIZ-0392;17/8/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Web;82;1
+VIZ-0393;10/10/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Tablet;4;0
+VIZ-0394;30/7/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Mobile;87;1
+VIZ-0395;13/7/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Tablet;90;1
+VIZ-0396;26/3/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Tablet;123;1
+VIZ-0397;8/5/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Web;44;1
+VIZ-0398;24/2/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Web;130;1
+VIZ-0399;17/6/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Mobile;40;1
+VIZ-0400;21/12/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Mobile;34;0
+VIZ-0401;29/5/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Tablet;37;1
+VIZ-0402;20/7/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Mobile;43;1
+VIZ-0403;15/12/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Web;25;0
+VIZ-0404;29/5/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Web;41;1
+VIZ-0405;9/5/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Web;48;1
+VIZ-0406;2/9/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Web;103;1
+VIZ-0407;3/7/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Smart TV;35;1
+VIZ-0408;6/12/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Smart TV;95;1
+VIZ-0409;27/11/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Web;86;1
+VIZ-0410;23/4/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Mobile;45;1
+VIZ-0411;13/12/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Mobile;43;1
+VIZ-0412;23/2/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Smart TV;56;0
+VIZ-0413;27/6/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Mobile;39;1
+VIZ-0414;19/2/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Web;45;1
+VIZ-0415;29/12/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Smart TV;22;0
+VIZ-0416;4/5/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Mobile;92;1
+VIZ-0417;24/8/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Mobile;92;1
+VIZ-0418;21/7/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Mobile;45;1
+VIZ-0419;3/1/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Smart TV;39;1
+VIZ-0420;1/10/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Mobile;39;1
+VIZ-0421;7/9/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Web;113;1
+VIZ-0422;27/6/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Mobile;23;0
+VIZ-0423;1/6/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Mobile;35;1
+VIZ-0424;29/2/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Mobile;40;1
+VIZ-0425;11/3/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Mobile;100;1
+VIZ-0426;26/11/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Web;83;1
+VIZ-0427;18/8/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Smart TV;103;1
+VIZ-0428;15/7/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Web;85;1
+VIZ-0429;29/12/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Smart TV;49;1
+VIZ-0430;22/4/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Mobile;103;1
+VIZ-0431;22/8/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Smart TV;44;1
+VIZ-0432;5/10/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Web;90;1
+VIZ-0433;22/2/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Web;133;1
+VIZ-0434;14/2/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Mobile;43;1
+VIZ-0435;18/12/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Web;40;1
+VIZ-0436;15/4/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Tablet;91;1
+VIZ-0437;27/3/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Tablet;48;1
+VIZ-0438;20/9/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Smart TV;60;0
+VIZ-0439;5/3/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Tablet;22;0
+VIZ-0440;12/12/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Tablet;47;1
+VIZ-0441;8/2/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Tablet;65;0
+VIZ-0442;20/8/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Smart TV;25;0
+VIZ-0443;17/2/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Tablet;67;0
+VIZ-0444;22/7/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Web;103;1
+VIZ-0445;21/6/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Web;24;0
+VIZ-0446;25/1/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Web;45;1
+VIZ-0447;21/3/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Web;48;1
+VIZ-0448;8/3/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Smart TV;24;0
+VIZ-0449;9/7/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Tablet;61;0
+VIZ-0450;7/8/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Smart TV;44;1
+VIZ-0451;30/10/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Web;87;1
+VIZ-0452;2/3/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Web;45;1
+VIZ-0453;22/2/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Tablet;41;1
+VIZ-0454;9/3/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Smart TV;41;1
+VIZ-0455;28/6/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Mobile;55;0
+VIZ-0456;14/8/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Mobile;20;0
+VIZ-0457;15/7/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Mobile;101;1
+VIZ-0458;7/5/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Tablet;19;0
+VIZ-0459;3/12/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Mobile;11;0
+VIZ-0460;28/1/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Smart TV;48;1
+VIZ-0461;6/2/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Tablet;19;0
+VIZ-0462;18/10/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Mobile;28;0
+VIZ-0463;7/2/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Smart TV;34;1
+VIZ-0464;31/1/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Web;85;1
+VIZ-0465;23/11/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Mobile;84;1
+VIZ-0466;18/9/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Tablet;92;1
+VIZ-0467;28/11/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Web;81;0
+VIZ-0468;30/1/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Smart TV;43;1
+VIZ-0469;7/6/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Mobile;9;0
+VIZ-0470;26/6/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Tablet;82;1
+VIZ-0471;17/5/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Tablet;25;0
+VIZ-0472;2/2/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Smart TV;46;1
+VIZ-0473;29/1/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Mobile;41;1
+VIZ-0474;22/2/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Smart TV;112;1
+VIZ-0475;23/1/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Web;40;1
+VIZ-0476;1/4/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Web;83;1
+VIZ-0477;12/6/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Tablet;43;1
+VIZ-0478;27/1/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Smart TV;6;0
+VIZ-0479;26/8/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Tablet;90;1
+VIZ-0480;7/7/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Tablet;33;0
+VIZ-0481;7/7/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Mobile;50;1
+VIZ-0482;13/1/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Smart TV;9;0
+VIZ-0483;2/12/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Tablet;42;1
+VIZ-0484;1/5/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Mobile;8;0
+VIZ-0485;28/4/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Tablet;102;1
+VIZ-0486;24/10/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Web;86;1
+VIZ-0487;10/8/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Tablet;26;0
+VIZ-0488;20/7/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Tablet;42;1
+VIZ-0489;10/3/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Smart TV;43;1
+VIZ-0490;27/7/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Mobile;85;1
+VIZ-0491;2/3/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Tablet;50;0
+VIZ-0492;21/1/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Mobile;41;1
+VIZ-0493;1/7/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Tablet;90;1
+VIZ-0494;16/1/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Mobile;40;1
+VIZ-0495;12/3/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Mobile;110;1
+VIZ-0496;9/7/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Tablet;5;0
+VIZ-0497;3/2/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Web;17;0
+VIZ-0498;18/6/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Smart TV;107;1
+VIZ-0499;21/7/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Web;103;1
+VIZ-0500;5/4/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Mobile;130;1
+VIZ-0501;5/5/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Web;46;1
+VIZ-0502;11/3/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Mobile;39;1
+VIZ-0503;10/1/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Tablet;93;1
+VIZ-0504;25/6/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Web;81;1
+VIZ-0505;1/11/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Smart TV;42;0
+VIZ-0506;2/7/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Smart TV;37;1
+VIZ-0507;30/9/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Web;93;1
+VIZ-0508;29/3/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Tablet;20;0
+VIZ-0509;29/10/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Tablet;21;0
+VIZ-0510;15/10/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Tablet;40;1
+VIZ-0511;29/1/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Smart TV;34;1
+VIZ-0512;10/11/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Tablet;61;0
+VIZ-0513;14/6/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Mobile;67;0
+VIZ-0514;5/7/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Web;39;1
+VIZ-0515;14/6/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Web;65;0
+VIZ-0516;28/11/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Tablet;94;1
+VIZ-0517;30/3/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Tablet;131;1
+VIZ-0518;25/12/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Smart TV;98;1
+VIZ-0519;9/11/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Smart TV;22;0
+VIZ-0520;9/2/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Mobile;42;1
+VIZ-0521;28/12/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Tablet;48;1
+VIZ-0522;28/6/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Smart TV;90;1
+VIZ-0523;2/8/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Web;33;0
+VIZ-0524;11/7/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Mobile;40;1
+VIZ-0525;18/1/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Tablet;16;0
+VIZ-0526;28/3/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Smart TV;97;1
+VIZ-0527;17/2/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Web;13;0
+VIZ-0528;30/11/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Mobile;35;1
+VIZ-0529;7/4/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Tablet;13;0
+VIZ-0530;19/2/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Web;98;1
+VIZ-0531;6/8/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Web;122;1
+VIZ-0532;28/3/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Smart TV;42;1
+VIZ-0533;7/9/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Web;44;1
+VIZ-0534;8/7/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Tablet;46;1
+VIZ-0535;17/5/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Smart TV;105;1
+VIZ-0536;4/10/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Mobile;93;1
+VIZ-0537;24/9/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Web;83;1
+VIZ-0538;2/6/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Smart TV;104;1
+VIZ-0539;19/10/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Web;98;1
+VIZ-0540;18/4/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Web;95;1
+VIZ-0541;13/4/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Tablet;43;1
+VIZ-0542;4/2/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Web;103;1
+VIZ-0543;23/9/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Web;99;1
+VIZ-0544;17/10/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Smart TV;35;1
+VIZ-0545;26/5/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Web;104;1
+VIZ-0546;19/10/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Mobile;46;1
+VIZ-0547;7/11/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Tablet;14;0
+VIZ-0548;31/8/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Smart TV;106;1
+VIZ-0549;8/6/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Smart TV;10;0
+VIZ-0550;2/6/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Tablet;43;0
+VIZ-0551;15/2/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Web;27;0
+VIZ-0552;10/7/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Smart TV;86;1
+VIZ-0553;10/3/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Smart TV;107;1
+VIZ-0554;12/4/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Web;37;1
+VIZ-0555;11/4/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Web;38;1
+VIZ-0556;16/1/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Web;41;1
+VIZ-0557;27/10/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Mobile;11;0
+VIZ-0558;18/12/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Web;133;1
+VIZ-0559;19/4/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Mobile;111;1
+VIZ-0560;11/1/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Mobile;45;1
+VIZ-0561;9/5/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Tablet;89;1
+VIZ-0562;27/6/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Web;129;1
+VIZ-0563;15/11/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Smart TV;37;1
+VIZ-0564;10/7/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Tablet;107;1
+VIZ-0565;2/2/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Tablet;34;0
+VIZ-0566;30/12/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Mobile;23;0
+VIZ-0567;3/11/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Mobile;57;0
+VIZ-0568;31/5/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Web;98;1
+VIZ-0569;28/12/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Tablet;10;0
+VIZ-0570;30/9/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Tablet;106;1
+VIZ-0571;2/12/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Smart TV;95;1
+VIZ-0572;13/10/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Smart TV;109;1
+VIZ-0573;6/6/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Tablet;88;1
+VIZ-0574;1/3/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Smart TV;103;1
+VIZ-0575;2/3/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Web;89;1
+VIZ-0576;11/3/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Web;41;1
+VIZ-0577;2/4/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Mobile;45;1
+VIZ-0578;19/8/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Mobile;39;1
+VIZ-0579;15/2/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Web;38;1
+VIZ-0580;15/7/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Mobile;74;0
+VIZ-0581;13/6/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Smart TV;37;1
+VIZ-0582;21/12/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Smart TV;129;1
+VIZ-0583;26/3/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Tablet;16;0
+VIZ-0584;23/9/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Web;62;0
+VIZ-0585;24/6/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Mobile;27;0
+VIZ-0586;25/7/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Mobile;36;1
+VIZ-0587;15/9/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Smart TV;43;1
+VIZ-0588;30/9/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Smart TV;54;0
+VIZ-0589;11/1/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Web;44;1
+VIZ-0590;9/5/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Mobile;23;0
+VIZ-0591;3/6/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Tablet;114;1
+VIZ-0592;2/8/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Smart TV;88;1
+VIZ-0593;11/9/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Tablet;26;0
+VIZ-0594;2/7/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Smart TV;134;1
+VIZ-0595;18/12/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Smart TV;38;1
+VIZ-0596;26/2/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Mobile;66;0
+VIZ-0597;8/2/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Mobile;108;1
+VIZ-0598;15/5/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Mobile;68;0
+VIZ-0599;3/7/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Smart TV;102;1
+VIZ-0600;24/1/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Mobile;44;1
+VIZ-0601;14/11/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Smart TV;101;1
+VIZ-0602;28/2/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Tablet;53;0
+VIZ-0603;1/9/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Smart TV;115;1
+VIZ-0604;22/3/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Web;53;0
+VIZ-0605;2/4/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Smart TV;65;0
+VIZ-0606;7/3/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Smart TV;39;0
+VIZ-0607;2/2/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Smart TV;59;0
+VIZ-0608;22/10/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Tablet;39;1
+VIZ-0609;12/11/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Mobile;101;1
+VIZ-0610;24/11/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Smart TV;97;1
+VIZ-0611;15/9/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Mobile;42;1
+VIZ-0612;3/5/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Mobile;127;1
+VIZ-0613;30/4/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Web;47;1
+VIZ-0614;10/6/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Smart TV;47;1
+VIZ-0615;12/10/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Tablet;48;0
+VIZ-0616;1/12/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Smart TV;25;0
+VIZ-0617;18/6/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Web;30;0
+VIZ-0618;19/8/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Mobile;42;1
+VIZ-0619;20/11/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Tablet;11;0
+VIZ-0620;25/3/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Web;94;1
+VIZ-0621;6/4/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Mobile;106;1
+VIZ-0622;22/6/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Smart TV;56;0
+VIZ-0623;28/10/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Web;63;0
+VIZ-0624;9/3/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Smart TV;106;1
+VIZ-0625;26/10/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Mobile;22;0
+VIZ-0626;6/3/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Tablet;99;1
+VIZ-0627;7/11/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Tablet;50;0
+VIZ-0628;9/3/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Tablet;44;0
+VIZ-0629;9/6/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Mobile;115;1
+VIZ-0630;17/12/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Mobile;52;0
+VIZ-0631;1/4/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Tablet;49;0
+VIZ-0632;14/10/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Web;24;0
+VIZ-0633;30/9/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Smart TV;97;1
+VIZ-0634;15/3/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Mobile;115;1
+VIZ-0635;26/5/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Tablet;94;1
+VIZ-0636;2/7/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Mobile;19;0
+VIZ-0637;1/5/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Tablet;12;0
+VIZ-0638;14/7/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Tablet;14;0
+VIZ-0639;8/5/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Mobile;20;0
+VIZ-0640;27/11/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Mobile;64;0
+VIZ-0641;30/5/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Smart TV;90;1
+VIZ-0642;20/9/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Web;97;1
+VIZ-0643;23/3/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Smart TV;43;1
+VIZ-0644;20/3/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Smart TV;46;0
+VIZ-0645;4/12/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Tablet;49;1
+VIZ-0646;26/9/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Smart TV;19;0
+VIZ-0647;5/10/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Tablet;97;1
+VIZ-0648;18/6/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Mobile;20;0
+VIZ-0649;31/8/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Smart TV;41;1
+VIZ-0650;3/5/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Mobile;54;0
+VIZ-0651;13/6/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Web;105;1
+VIZ-0652;13/1/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Web;41;1
+VIZ-0653;29/11/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Smart TV;8;0
+VIZ-0654;2/10/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Smart TV;108;1
+VIZ-0655;19/4/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Mobile;43;1
+VIZ-0656;10/8/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Mobile;47;1
+VIZ-0657;20/1/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Mobile;19;0
+VIZ-0658;21/10/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Web;104;1
+VIZ-0659;9/8/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Smart TV;108;1
+VIZ-0660;12/11/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Smart TV;14;0
+VIZ-0661;14/9/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Tablet;125;1
+VIZ-0662;12/8/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Smart TV;100;1
+VIZ-0663;10/3/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Tablet;18;0
+VIZ-0664;12/12/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Mobile;101;1
+VIZ-0665;1/11/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Smart TV;88;1
+VIZ-0666;25/6/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Mobile;97;1
+VIZ-0667;9/5/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Smart TV;29;0
+VIZ-0668;8/10/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Smart TV;107;1
+VIZ-0669;20/2/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Web;15;0
+VIZ-0670;9/12/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Smart TV;13;0
+VIZ-0671;18/8/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Tablet;7;0
+VIZ-0672;17/10/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Web;88;1
+VIZ-0673;23/4/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Mobile;40;0
+VIZ-0674;2/9/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Tablet;46;1
+VIZ-0675;26/11/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Mobile;10;0
+VIZ-0676;16/11/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Smart TV;23;0
+VIZ-0677;24/10/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Mobile;45;0
+VIZ-0678;5/10/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Mobile;46;1
+VIZ-0679;28/10/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Smart TV;93;1
+VIZ-0680;5/12/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Mobile;8;0
+VIZ-0681;22/3/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Mobile;15;0
+VIZ-0682;2/7/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Mobile;37;1
+VIZ-0683;22/1/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Web;85;1
+VIZ-0684;24/1/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Smart TV;48;0
+VIZ-0685;20/5/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Mobile;36;1
+VIZ-0686;27/10/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Web;21;0
+VIZ-0687;26/7/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Web;27;0
+VIZ-0688;4/1/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Web;98;1
+VIZ-0689;25/11/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Mobile;38;1
+VIZ-0690;1/3/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Smart TV;100;1
+VIZ-0691;17/4/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Web;89;1
+VIZ-0692;20/10/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Smart TV;18;0
+VIZ-0693;26/3/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Web;103;1
+VIZ-0694;10/1/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Web;43;1
+VIZ-0695;3/9/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Mobile;23;0
+VIZ-0696;3/4/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Tablet;114;1
+VIZ-0697;20/8/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Mobile;35;1
+VIZ-0698;9/1/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Web;41;0
+VIZ-0699;31/3/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Smart TV;45;0
+VIZ-0700;1/3/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Mobile;21;0
+VIZ-0701;1/1/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Tablet;46;0
+VIZ-0702;7/8/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Web;93;1
+VIZ-0703;22/12/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Mobile;44;1
+VIZ-0704;12/2/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Web;34;1
+VIZ-0705;4/1/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Smart TV;83;1
+VIZ-0706;10/6/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Mobile;40;1
+VIZ-0707;13/5/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Tablet;105;1
+VIZ-0708;22/7/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Web;100;1
+VIZ-0709;4/9/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Tablet;45;0
+VIZ-0710;11/3/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Web;32;0
+VIZ-0711;21/2/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Tablet;42;0
+VIZ-0712;16/12/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Smart TV;57;0
+VIZ-0713;29/8/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Smart TV;98;1
+VIZ-0714;7/11/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Web;46;1
+VIZ-0715;30/12/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Web;103;1
+VIZ-0716;2/12/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Smart TV;54;0
+VIZ-0717;23/12/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Smart TV;37;1
+VIZ-0718;21/3/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Tablet;46;0
+VIZ-0719;12/4/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Smart TV;48;0
+VIZ-0720;13/10/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Tablet;42;1
+VIZ-0721;20/8/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Tablet;36;1
+VIZ-0722;13/10/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Tablet;52;0
+VIZ-0723;11/5/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Tablet;29;0
+VIZ-0724;15/10/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Tablet;35;0
+VIZ-0725;23/8/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Web;40;1
+VIZ-0726;20/11/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Mobile;41;0
+VIZ-0727;29/6/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Tablet;82;1
+VIZ-0728;10/12/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Mobile;42;1
+VIZ-0729;20/10/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Mobile;90;1
+VIZ-0730;3/5/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Mobile;24;0
+VIZ-0731;1/7/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Smart TV;47;0
+VIZ-0732;5/12/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Smart TV;12;0
+VIZ-0733;10/6/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Tablet;108;1
+VIZ-0734;18/9/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Mobile;103;1
+VIZ-0735;1/9/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Tablet;108;1
+VIZ-0736;30/3/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Web;41;1
+VIZ-0737;11/12/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Smart TV;101;1
+VIZ-0738;12/5/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Mobile;90;1
+VIZ-0739;24/6/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Web;95;1
+VIZ-0740;9/7/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Tablet;42;1
+VIZ-0741;21/10/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Tablet;19;0
+VIZ-0742;14/7/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Mobile;88;1
+VIZ-0743;3/8/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Tablet;27;0
+VIZ-0744;14/10/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Smart TV;15;0
+VIZ-0745;10/5/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Smart TV;41;1
+VIZ-0746;3/7/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Tablet;85;1
+VIZ-0747;28/6/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Mobile;11;0
+VIZ-0748;15/6/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Web;16;0
+VIZ-0749;26/5/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Mobile;117;1
+VIZ-0750;3/8/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Smart TV;36;1
+VIZ-0751;9/6/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Tablet;111;1
+VIZ-0752;15/8/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Web;44;1
+VIZ-0753;12/1/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Tablet;25;0
+VIZ-0754;10/2/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Smart TV;97;1
+VIZ-0755;30/8/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Web;112;1
+VIZ-0756;23/2/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Smart TV;24;0
+VIZ-0757;7/6/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Tablet;37;1
+VIZ-0758;26/9/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Tablet;33;0
+VIZ-0759;31/8/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Tablet;40;1
+VIZ-0760;23/12/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Web;94;1
+VIZ-0761;15/10/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Tablet;35;0
+VIZ-0762;26/4/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Tablet;46;1
+VIZ-0763;6/1/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Tablet;86;1
+VIZ-0764;18/12/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Tablet;90;1
+VIZ-0765;29/5/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Tablet;40;1
+VIZ-0766;11/8/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Web;9;0
+VIZ-0767;10/2/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Tablet;115;1
+VIZ-0768;17/5/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Mobile;36;1
+VIZ-0769;21/8/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Web;45;1
+VIZ-0770;26/1/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Smart TV;102;1
+VIZ-0771;12/8/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Mobile;37;1
+VIZ-0772;3/8/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Tablet;93;1
+VIZ-0773;18/6/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Smart TV;41;1
+VIZ-0774;5/10/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Tablet;58;0
+VIZ-0775;3/3/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Mobile;13;0
+VIZ-0776;23/8/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Mobile;87;1
+VIZ-0777;8/6/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Smart TV;42;0
+VIZ-0778;3/3/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Tablet;49;1
+VIZ-0779;7/12/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Web;41;1
+VIZ-0780;21/5/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Mobile;41;1
+VIZ-0781;19/12/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Mobile;44;1
+VIZ-0782;21/3/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Tablet;31;0
+VIZ-0783;16/11/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Mobile;64;0
+VIZ-0784;5/3/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Tablet;14;0
+VIZ-0785;8/4/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Tablet;12;0
+VIZ-0786;21/1/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Tablet;46;1
+VIZ-0787;17/10/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Tablet;24;0
+VIZ-0788;2/11/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Mobile;96;1
+VIZ-0789;4/10/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Web;31;0
+VIZ-0790;13/11/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Mobile;86;1
+VIZ-0791;2/10/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Web;8;0
+VIZ-0792;24/5/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Tablet;100;1
+VIZ-0793;4/2/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Mobile;10;0
+VIZ-0794;5/9/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Web;18;0
+VIZ-0795;25/12/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Tablet;131;1
+VIZ-0796;7/1/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Smart TV;114;1
+VIZ-0797;3/7/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Tablet;6;0
+VIZ-0798;11/11/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Smart TV;13;0
+VIZ-0799;20/4/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Mobile;41;1
+VIZ-0800;26/9/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Mobile;36;1
+VIZ-0801;24/2/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Web;15;0
+VIZ-0802;23/2/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Web;92;1
+VIZ-0803;30/9/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Tablet;50;1
+VIZ-0804;9/7/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Web;28;0
+VIZ-0805;3/5/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Web;58;0
+VIZ-0806;10/5/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Web;45;1
+VIZ-0807;25/5/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Mobile;31;0
+VIZ-0808;2/6/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Smart TV;26;0
+VIZ-0809;21/5/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Mobile;85;1
+VIZ-0810;20/3/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Mobile;132;1
+VIZ-0811;17/2/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Mobile;55;0
+VIZ-0812;4/9/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Smart TV;47;1
+VIZ-0813;22/10/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Tablet;44;1
+VIZ-0814;1/8/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Smart TV;42;1
+VIZ-0815;28/1/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Tablet;82;1
+VIZ-0816;14/9/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Web;53;0
+VIZ-0817;21/10/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Web;42;1
+VIZ-0818;8/3/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Smart TV;42;1
+VIZ-0819;23/7/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Mobile;40;0
+VIZ-0820;11/4/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Mobile;105;1
+VIZ-0821;25/9/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Tablet;12;0
+VIZ-0822;21/10/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Web;42;1
+VIZ-0823;13/6/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Smart TV;8;0
+VIZ-0824;28/6/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Mobile;44;1
+VIZ-0825;29/4/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Mobile;71;0
+VIZ-0826;27/2/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Mobile;23;0
+VIZ-0827;8/1/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Tablet;43;1
+VIZ-0828;17/4/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Tablet;38;1
+VIZ-0829;13/3/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Smart TV;95;1
+VIZ-0830;12/4/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Web;14;0
+VIZ-0831;17/7/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Tablet;13;0
+VIZ-0832;28/11/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Estándar;2100;Smart TV;15;0
+VIZ-0833;1/11/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Mobile;43;1
+VIZ-0834;30/12/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Tablet;105;1
+VIZ-0835;21/3/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Tablet;39;1
+VIZ-0836;13/9/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Tablet;59;0
+VIZ-0837;16/1/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Mobile;127;1
+VIZ-0838;11/3/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Mobile;46;1
+VIZ-0839;6/8/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Tablet;99;1
+VIZ-0840;30/11/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Mobile;11;0
+VIZ-0841;27/12/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Web;73;0
+VIZ-0842;15/3/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Tablet;103;1
+VIZ-0843;1/3/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Smart TV;26;0
+VIZ-0844;30/7/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Tablet;124;1
+VIZ-0845;8/3/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Premium;3200;Tablet;108;1
+VIZ-0846;1/11/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Smart TV;39;1
+VIZ-0847;1/9/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Web;29;0
+VIZ-0848;17/7/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Mobile;45;1
+VIZ-0849;8/1/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Mobile;15;0
+VIZ-0850;12/8/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Tablet;31;0
+VIZ-0851;6/8/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Web;32;0
+VIZ-0852;19/10/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Smart TV;85;1
+VIZ-0853;22/1/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Premium;3200;Web;11;0
+VIZ-0854;17/7/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Smart TV;90;1
+VIZ-0855;4/6/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Web;50;1
+VIZ-0856;19/12/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Web;40;0
+VIZ-0857;13/9/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Mobile;91;1
+VIZ-0858;13/1/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Mobile;8;0
+VIZ-0859;14/6/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Smart TV;47;1
+VIZ-0860;20/11/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Web;30;0
+VIZ-0861;9/11/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Web;96;1
+VIZ-0862;20/6/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Mobile;40;1
+VIZ-0863;30/12/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Tablet;70;0
+VIZ-0864;27/5/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Mobile;44;1
+VIZ-0865;7/1/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Smart TV;47;1
+VIZ-0866;21/4/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Web;107;1
+VIZ-0867;3/11/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Tablet;38;1
+VIZ-0868;16/4/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Smart TV;12;0
+VIZ-0869;17/1/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Tablet;40;1
+VIZ-0870;25/2/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Tablet;95;1
+VIZ-0871;31/10/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Mobile;52;0
+VIZ-0872;3/7/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Tablet;42;1
+VIZ-0873;4/2/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Premium;3200;Smart TV;40;1
+VIZ-0874;21/12/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Web;41;1
+VIZ-0875;9/11/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Smart TV;44;1
+VIZ-0876;27/12/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Tablet;101;1
+VIZ-0877;15/11/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Web;104;1
+VIZ-0878;9/9/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Mobile;73;0
+VIZ-0879;1/1/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Smart TV;25;0
+VIZ-0880;11/11/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Tablet;103;1
+VIZ-0881;18/4/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Tablet;107;1
+VIZ-0882;2/6/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Smart TV;84;1
+VIZ-0883;21/7/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Mobile;37;1
+VIZ-0884;10/12/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Smart TV;102;1
+VIZ-0885;17/11/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Tablet;106;1
+VIZ-0886;29/1/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Premium;3200;Tablet;122;1
+VIZ-0887;22/10/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Smart TV;25;0
+VIZ-0888;16/1/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Mobile;99;1
+VIZ-0889;31/10/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Tablet;11;0
+VIZ-0890;14/2/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Tablet;107;1
+VIZ-0891;20/4/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Smart TV;122;1
+VIZ-0892;13/4/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Smart TV;32;0
+VIZ-0893;19/3/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Tablet;8;0
+VIZ-0894;20/2/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Mobile;44;0
+VIZ-0895;31/12/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Tablet;23;0
+VIZ-0896;31/10/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Smart TV;41;1
+VIZ-0897;8/6/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Mobile;35;1
+VIZ-0898;21/5/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Smart TV;38;1
+VIZ-0899;28/2/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Smart TV;36;1
+VIZ-0900;12/6/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Tablet;90;1
+VIZ-0901;8/6/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Estándar;2100;Web;98;1
+VIZ-0902;11/12/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Smart TV;42;1
+VIZ-0903;26/12/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Web;101;1
+VIZ-0904;11/4/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Mobile;44;1
+VIZ-0905;23/12/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Estándar;2100;Tablet;23;0
+VIZ-0906;26/8/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Mobile;19;0
+VIZ-0907;5/7/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Tablet;61;0
+VIZ-0908;20/8/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Web;106;1
+VIZ-0909;28/3/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Mobile;89;1
+VIZ-0910;31/12/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Smart TV;17;0
+VIZ-0911;24/7/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Mobile;105;1
+VIZ-0912;15/7/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Web;15;0
+VIZ-0913;24/6/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Mobile;7;0
+VIZ-0914;30/12/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Smart TV;42;1
+VIZ-0915;11/10/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Mobile;41;1
+VIZ-0916;2/11/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Web;114;1
+VIZ-0917;1/2/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Básico;1200;Smart TV;20;0
+VIZ-0918;19/8/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Web;131;1
+VIZ-0919;11/6/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Tablet;25;0
+VIZ-0920;25/6/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Web;23;0
+VIZ-0921;1/2/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Premium;3200;Smart TV;103;1
+VIZ-0922;2/7/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Smart TV;43;1
+VIZ-0923;20/7/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Web;46;1
+VIZ-0924;5/12/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Básico;1200;Mobile;49;1
+VIZ-0925;3/7/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Mobile;89;1
+VIZ-0926;9/1/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Web;9;0
+VIZ-0927;11/3/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Web;42;1
+VIZ-0928;5/8/2024;USR-018;Ezequiel Romero;eze.romero@gmail.com;14/11/2022;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Web;40;1
+VIZ-0929;5/11/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Mobile;10;0
+VIZ-0930;6/10/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Smart TV;41;1
+VIZ-0931;27/2/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Smart TV;49;1
+VIZ-0932;23/5/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Básico;1200;Smart TV;87;1
+VIZ-0933;5/12/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Tablet;117;1
+VIZ-0934;30/9/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Estándar;2100;Web;47;1
+VIZ-0935;29/6/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Smart TV;61;0
+VIZ-0936;4/6/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Web;129;1
+VIZ-0937;2/12/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Smart TV;86;1
+VIZ-0938;15/9/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Tablet;41;1
+VIZ-0939;11/5/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Básico;1200;Mobile;26;0
+VIZ-0940;3/12/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Tablet;10;0
+VIZ-0941;2/4/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Básico;1200;Tablet;30;0
+VIZ-0942;31/10/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;El Último Testigo;Serie;Drama;Drama Works;44;4.3;Estándar;2100;Web;11;0
+VIZ-0943;13/8/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Tablet;37;1
+VIZ-0944;29/2/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Estándar;2100;Web;93;1
+VIZ-0945;29/9/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Web;96;1
+VIZ-0946;10/8/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Web;90;0
+VIZ-0947;15/12/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Tablet;16;0
+VIZ-0948;29/11/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Estándar;2100;Tablet;11;0
+VIZ-0949;26/10/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Los Elegidos;Serie;Drama;Drama Works;50;4.6;Premium;3200;Mobile;22;0
+VIZ-0950;9/4/2024;USR-017;Pilar Núñez;pilar.nunez@hotmail.com;5/1/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Mobile;38;1
+VIZ-0951;5/1/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Smart TV;108;1
+VIZ-0952;28/6/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Tablet;43;1
+VIZ-0953;17/2/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Mobile;18;0
+VIZ-0954;28/12/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Mobile;44;1
+VIZ-0955;27/11/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Smart TV;24;0
+VIZ-0956;27/8/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Tablet;60;0
+VIZ-0957;7/12/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Básico;1200;Smart TV;122;1
+VIZ-0958;17/7/2024;USR-011;Florencia Sánchez;flor.sanchez@gmail.com;8/4/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Tablet;102;1
+VIZ-0959;12/4/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Web;100;1
+VIZ-0960;8/8/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Smart TV;20;0
+VIZ-0961;22/2/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Básico;1200;Tablet;5;0
+VIZ-0962;11/9/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Premium;3200;Smart TV;58;0
+VIZ-0963;16/5/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Web;46;1
+VIZ-0964;8/9/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Estándar;2100;Smart TV;95;1
+VIZ-0965;18/12/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Tablet;42;1
+VIZ-0966;29/1/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Tablet;40;1
+VIZ-0967;28/5/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Premium;3200;Smart TV;48;0
+VIZ-0968;2/6/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Tablet;107;1
+VIZ-0969;12/8/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Mobile;98;1
+VIZ-0970;2/5/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Tablet;105;1
+VIZ-0971;18/8/2024;USR-001;Lucía Fernández;lucia.fernandez@gmail.com;15/8/2022;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Smart TV;109;1
+VIZ-0972;26/7/2024;USR-004;Diego Ramírez;diego.ramirez@yahoo.com;10/6/2022;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Web;25;0
+VIZ-0973;1/10/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Premium;3200;Mobile;6;0
+VIZ-0974;13/3/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Básico;1200;Web;55;0
+VIZ-0975;4/5/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Smart TV;65;0
+VIZ-0976;19/2/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Smart TV;6;0
+VIZ-0977;11/9/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Premium;3200;Mobile;87;1
+VIZ-0978;21/6/2024;USR-013;Micaela Vargas;mica.vargas@gmail.com;20/6/2023;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Básico;1200;Mobile;42;1
+VIZ-0979;19/4/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Tablet;35;1
+VIZ-0980;31/7/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Mundos Paralelos;Serie;Ciencia Ficción;Cosmos Films;48;4.8;Estándar;2100;Mobile;48;1
+VIZ-0981;21/1/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;La Última Frontera;Serie;Ciencia Ficción;Cosmos Films;45;4.7;Premium;3200;Web;5;0
+VIZ-0982;6/9/2024;USR-003;Valentina Torres;val.torres@gmail.com;20/1/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Mobile;58;0
+VIZ-0983;30/10/2024;USR-010;Tomás Castro;tomas.castro@gmail.com;30/10/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Premium;3200;Web;23;0
+VIZ-0984;23/11/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Noche Eterna;Película;Terror;Dark Side Prod.;90;3.5;Estándar;2100;Web;83;1
+VIZ-0985;20/12/2024;USR-002;Martín Gómez;martin.gomez@hotmail.com;3/11/2022;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Básico;1200;Web;35;1
+VIZ-0986;3/6/2024;USR-012;Ignacio Morales;ignacio.m@yahoo.com;1/12/2022;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Mobile;105;1
+VIZ-0987;18/2/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Corazón Salvaje;Serie;Romance;Cine Sur;42;3.7;Premium;3200;Mobile;40;1
+VIZ-0988;16/4/2024;USR-009;Agustina Ruiz;agustina.ruiz@hotmail.com;14/2/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Básico;1200;Smart TV;56;0
+VIZ-0989;30/8/2024;USR-016;Rodrigo Acosta;rodrigo.acosta@gmail.com;22/8/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Smart TV;92;1
+VIZ-0990;17/4/2024;USR-014;Sebastián Jiménez;seba.jimenez@outlook.com;17/5/2022;El Infinito;Película;Ciencia Ficción;Cosmos Films;135;4.5;Estándar;2100;Web;131;1
+VIZ-0991;2/10/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Entre Sombras;Película;Drama;Cine Sur;98;3.9;Básico;1200;Web;89;1
+VIZ-0992;30/4/2024;USR-015;Julieta Medina;juli.medina@gmail.com;9/7/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Premium;3200;Tablet;37;1
+VIZ-0993;15/6/2024;USR-008;Nicolás Muñoz;nico.munoz@gmail.com;25/7/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Básico;1200;Tablet;88;1
+VIZ-0994;30/7/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Sin Retorno;Película;Thriller;Studio Nord;105;4.2;Básico;1200;Smart TV;100;1
+VIZ-0995;11/8/2024;USR-005;Sofía López;sofia.lopez@gmail.com;5/3/2023;Código Rojo;Serie;Acción;Action House;40;4.1;Premium;3200;Web;37;1
+VIZ-0996;22/8/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;La Conspiración;Película;Thriller;Studio Nord;118;4.4;Estándar;2100;Tablet;108;1
+VIZ-0997;20/12/2024;USR-019;Antonella Reyes;anto.reyes@gmail.com;28/3/2023;Origen Oscuro;Película;Thriller;Studio Nord;112;4.3;Estándar;2100;Mobile;106;1
+VIZ-0998;2/8/2024;USR-006;Facundo Herrera;facundo.h@outlook.com;18/9/2022;Amor en Llamas;Película;Romance;Cine Sur;95;3.6;Estándar;2100;Mobile;43;0
+VIZ-0999;22/11/2024;USR-020;Manuel Gutiérrez;manuel.g@yahoo.com;7/9/2022;Bajo la Tormenta;Película;Acción;Action House;108;4.1;Básico;1200;Mobile;106;1
+VIZ-1000;7/9/2024;USR-007;Camila Díaz;camila.diaz@gmail.com;12/5/2023;Velocidad Máxima;Serie;Acción;Action House;38;4.0;Estándar;2100;Web;37;1
